@@ -17,16 +17,16 @@ The output of the 5th step is called `tidyData.txt`, and is uploaded with the re
 
 ## Script overview
 
-*This section describes the overview on the script file.
+* This section describes the overview on the script file.
 
-*The code is divided into 5 steps as instructed in the course project.
+* The code is divided into 5 steps as instructed in the course project.
 
-*Step 1 reads all the data from the sources.
+* Step 1 reads all the data from the sources.
 
-*Step 2 subsets the data containing mean and standard deviation in column names and renames them.
+* Step 2 subsets the data containing mean and standard deviation in column names and renames them.
 
-*Step 3 replaces data in the activities column by its label data.
+* Step 3 replaces data in the activities column by its label data.
 
-*Step 4 renames the last unnamed column.
+* Step 4 renames the last unnamed column.
 
-*Step 5 melts the dataset and reshapes it using the mean of each variable with activity and subject as its ID.
+* Step 5 melts the dataset and reshapes it using the mean of each variable with activity and subject as its ID.
